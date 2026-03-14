@@ -1,0 +1,13 @@
+name: .gitattributes
+description: Git configuration file defining path-specific settings for line endings,
+  diff handling, merge strategies, and binary file detection.
+url: ''
+tags:
+- Git
+- Version Control
+- Configuration
+- Repository
+created: '2025'
+modified: '2025'
+apis: []
+common: []
