@@ -1,5 +1,5 @@
 aid: gitattributes
-name: .gitattributes
+name: .Gitattributes
 description: Git configuration file defining path-specific settings for line endings,
   diff handling, merge strategies, and binary file detection.
 type: Index
