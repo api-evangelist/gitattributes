@@ -15,6 +15,9 @@ tags:
   - Git
   - Repository
   - Version Control
+common:
+  - type: GitHubOrganization
+    url: https://github.com/gitattributes
 apis: []
 common: []
 maintainers:
