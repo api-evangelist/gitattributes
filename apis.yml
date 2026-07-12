@@ -19,7 +19,6 @@ common:
   - type: GitHubOrganization
     url: https://github.com/gitattributes
 apis: []
-common: []
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
