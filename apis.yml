@@ -1,5 +1,6 @@
 aid: gitattributes
 name: .Gitattributes
+x-type: convention
 description: Git configuration file defining path-specific settings for line endings, diff handling, merge strategies, and binary file detection.
 type: Index
 deliveryModel:
@@ -28,7 +29,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/gitattribu
 access: 3rd-Party
 created: '2025-01-01'
 modified: '2026-04-28'
-position: Consumer
+position: Consuming
 url: >-
   https://raw.githubusercontent.com/api-evangelist/gitattributes/refs/heads/main/apis.yml
 specificationVersion: '0.23'
